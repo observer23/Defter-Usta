@@ -17,4 +17,4 @@ Herhangi bir sorunla karşılaşırsanız veya önerileriniz varsa, aşağıdaki
 E-posta: E-posta adresi belirtmek istiyorsanız buraya ekleyebilirsiniz.
 Gizlilik Politikası
 
-Kullanıcı gizliliği bizim için önemlidir. Uygulamanın gizlilik politikası hakkında bilgi almak için lütfen [buraya tıklayın](https://github.com/observer23/defter-usta/PrivacyPolicy.pdf).
+Kullanıcı gizliliği bizim için önemlidir. Uygulamanın gizlilik politikası hakkında bilgi almak için lütfen [buraya tıklayın](https://github.com/observer23/Defter-Usta/blob/main/PrivacyPolicy.pdf).
